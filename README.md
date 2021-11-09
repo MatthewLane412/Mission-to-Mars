@@ -1,5 +1,4 @@
 # Mission-to-Mars
-
 ##Overview
 
 ##Results
